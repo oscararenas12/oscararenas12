@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oscar Arenas</h1>
-<h3 align="center">A passionate developer from California</h3>
+<h3 align="center">A developer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscararenas12&label=Profile%20views&color=0e75b6&style=flat" alt="oscararenas12" /> </p>
 
-- 🔭 I’m currently working on [Invoice Generator App for Personal Use](https://github.com/oscararenas12/genInv)
+- 🔭 I’m currently working on [Pong-AI: Reactive Agents in Real-Time Gameplay as a VScode Extension](https://github.com/oscararenas12/pong-autogen-vscode)
 
-- 🌱 I’m currently learning **R**
-
-- 📫 How to reach me **oscararenas625@pm.me**
+- 🌱 I’m currently learning how work with AI agents in python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pong-AI: Reactive Agents in Real-Time Gameplay as a VScode Extension](https://github.com/oscararenas12/pong-autogen-vscode)
 
-- 🌱 I’m currently learning how work with AI agents in python
+- 🌱 I’m currently a **Machine Learning Research Assistant** with [The D2 Lab](https://thed2lab.github.io/website/lab.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscararenas12&label=Profile%20views&color=0e75b6&style=flat" alt="oscararenas12" /> </p>
 
-- 🔭 I’m currently working on Student Mart: A Next.js + Supabase Marketplace for CSULB Students building the backend, authentication, while learning Next.js full-stack development.
+- 🔭 I’m currently working on AI agents to trade stocks and crypto for fun. 
 
 - 🌱 I’m currently a **Machine Learning Research Assistant** with [The D2 Lab](https://thed2lab.github.io/website/lab.html)
 

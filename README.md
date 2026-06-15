@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on AI agents to trade stocks and crypto for fun. 
 
-- 🌱 I’m currently a **Machine Learning Research Assistant** with [The D2 Lab](https://thed2lab.github.io/website/lab.html)
+- 🌱 I’m currently a **AI Solutions Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
